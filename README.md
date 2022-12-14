@@ -9,4 +9,4 @@ An constructor for creating Unturned mods on the addition of music for the boomb
 5. [Download and install Unity 2019.4.40](https://unity.com/releases/editor/archive#download-archive-2019)
 
 ## How to create mod in the constructor?
-1. Check out the variables in the folder "vars"! Example: IF you want the music to play endlessly, just open "Is_Loop.txt" and change "false" to "true".
+1. Check out the variables in the folder "vars"! Example: If you want the music to play endlessly, just open "Is_Loop.txt" and change "false" to "true"
