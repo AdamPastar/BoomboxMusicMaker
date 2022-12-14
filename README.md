@@ -6,4 +6,4 @@ An constructor for creating Unturned mods on the addition of music for the boomb
 2. Make a folder for the constructor and unpack the ZIP into it
 3. [Download Python](https://www.python.org/downloads/) (my current version is 3.10.5)
 4. Install Python with all modules
-5. [Download Unity 2019.4.40](https://unity.com/releases/editor/archive#download-archive-2019)
+5. [Download Unity 2019.4.40 and install it](https://unity.com/releases/editor/archive#download-archive-2019)
