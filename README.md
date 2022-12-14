@@ -13,6 +13,6 @@ An constructor for creating Unturned mods on the addition of music for the boomb
 2. Open the cmd.exe (Command Prompt) and type this commands: `pip install moviepy pytube transliterate`
 3. Run the main.py script and if you did everything right, then it will start
 4. When did you add the music then open Unity Hub and press on "Open" button, then go to the your folder for the constructor and choose folder with setted name of your mod!
-5. Click on "Window" > "Unturned" > "Master Bundle Tool"
+5. Click on "Window" ---> "Unturned" --> "Master Bundle Tool"
 
 ![Look at screenshot](https://i.imgur.com/LHiOUCI.png)
