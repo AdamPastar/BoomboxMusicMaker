@@ -16,3 +16,5 @@ An constructor for creating Unturned mods on the addition of music for the boomb
 5. Click on "Window" ---> "Unturned" ---> "Master Bundle Tool"
 
 ![Look at screenshot](https://i.imgur.com/LHiOUCI.png)
+
+6. Click on "Asset Bundles" and add a checkmark next to {your_name_for_masterbundle_in_vars_folder}.masterbundle
