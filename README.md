@@ -4,8 +4,8 @@ An constructor for creating Unturned mods on the addition of music for the boomb
 ## What I need to create mods in the constructor?
 1. [Download ZIP with constructor](https://github.com/AdamPastar/BoomboxMusicMaker/archive/refs/heads/main.zip)
 2. Make a folder for the constructor and unpack the ZIP into it
-3. [Download Python 3](https://www.python.org/downloads/) (my current version is 3.10.5)
-4. [Download ZIP and unpack it to constructor's folder](https://drive.google.com/file/d/1Ix0SwuSa655uiT8iHrPrKAsk2lGho2l3/view?usp=sharing)
+3. [Download ZIP and unpack it to constructor's folder](https://drive.google.com/file/d/1Ix0SwuSa655uiT8iHrPrKAsk2lGho2l3/view?usp=sharing)
+4. [Download Python 3](https://www.python.org/downloads/) (my current version is 3.10.5)
 5. Install Python 3 with all modules
 6. [Download and install Unity 2019.4.40](https://unity.com/releases/editor/archive#download-archive-2019)
 
