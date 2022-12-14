@@ -11,3 +11,4 @@ An constructor for creating Unturned mods on the addition of music for the boomb
 ## How to create mod in the constructor?
 1. Check out the variables in the folder "vars"! Example: If you want the music to play endlessly, just open "Is_Loop.txt" and change "false" to "true".
 2. Open the cmd.exe (Command Prompt) and type this commands: `pip install moviepy pytube transliterate`
+3. Run the main.py script and if you did everything right, then it will start
