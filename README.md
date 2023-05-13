@@ -8,6 +8,7 @@ An constructor for creating Unturned mods on the addition of music for the boomb
 4. [Download Python 3](https://www.python.org/downloads/) (my current version is 3.10.5)
 5. Install Python 3 with all modules
 6. [Download and install Unity 2019.4.40](https://unity.com/releases/editor/archive#download-archive-2019)
+7. [Download and install ffmpeg](https://www.wikihow.com/Install-FFmpeg-on-Windows)
 
 ## How to create mod in the constructor?
 1. Check out the variables in the folder "vars"! Example: If you want the music to play endlessly, just open "Is_Loop.txt" and change "false" to "true".
@@ -27,6 +28,6 @@ An constructor for creating Unturned mods on the addition of music for the boomb
 9. When will it be ready, open Unturned's locale files in Steam, go to folder "Maps", choose the map folder you like, open folder "Bundles" and copy "Boombox" folder in the constructor in it.
 10. Run Unturned, type "Play" ---> "Singleplayer" and choose map which you copied "Boombox" folder (don't forget to enable cheat codes)
 11. Type to the chat "/give 1466" (Boombox ID)
-12. Place it and listen your favorite music in your favorite game!!!
-13. Congratulations, you have created your mod!
+12. Place it and listen your favorite music in your favorite game!
+13. Congratulations, you have created your mod.
 14. Add star on my project.
