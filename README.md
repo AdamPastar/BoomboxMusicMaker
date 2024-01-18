@@ -24,7 +24,7 @@ An constructor for creating Unturned mods on the addition of music for the boomb
 ![Look at screenshot2](https://i.imgur.com/mncaJP5.png)
 
 7. Click on "Master Bundles" from below and press button "..." and select Boombox folder in /path_to_your_folder_where_is_constructor/Mod/Boombox
-8. It will take time to create a mod, it depends on how many songs you added!
+8. Click on "Export" button. It will take time to create a mod, it depends on how many songs you added!
 9. When will it be ready, open Unturned's locale files in Steam, go to folder "Maps", choose the map folder you like, open folder "Bundles" and copy "Boombox" folder in the constructor in it.
 10. Run Unturned, type "Play" ---> "Singleplayer" and choose map which you copied "Boombox" folder (don't forget to enable cheat codes)
 11. Type to the chat "/give 1466" (Boombox ID)
